@@ -1,0 +1,73 @@
+*{
+	background-color:  #312f44;
+}
+#logo{
+	width: 50px;
+	margin-left: 460px;
+	margin-bottom: 10px;
+}
+#shape1{
+	
+	margin-left: 480px;
+	width: 20px;
+	height: 20px;
+	margin-bottom: 15px;
+
+}
+#shape1 img{
+	width: 20px;
+	height: 20px;
+}
+#h1{
+	color: white;
+	margin-left: 400px;
+	margin-top: 5px;
+	text-transform: uppercase;
+	font-size: 10px;
+
+}
+#shapearrow{
+	
+	margin-left: 480px;
+	margin-bottom: 20px;
+}
+#shapearrow img{
+	width: 20px;
+	height: 20px;
+}
+.btn{
+    padding: 10px 35px;
+    background-color: #16a085;
+    border-style: none;
+    color:  rgb(0, 0, 0);
+    
+    border-radius: 15px;
+    margin-left: 420px;
+}
+
+
+
+
+#p2{
+	margin-left: 320px;
+	margin-top: 20px;
+	font-size: 10px;
+	color: white;
+}
+#search{
+	margin-left: 350px;
+	width: 300px;
+	height: 150px;
+	margin-bottom: 10px;
+}
+#h2{
+	font-size: 20px;
+	text-transform: uppercase;
+	margin-top: 70px;
+	margin-left: 400px;
+}
+#best{
+	color: #16a085;
+}
+#budget{
+	color: #FEB008;
